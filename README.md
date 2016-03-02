@@ -25,7 +25,7 @@ https://github.com/marxwang/ansible-learn-resources/blob/master/ansible_windows.
   [http://get.soft-arch.net/ansible/](http://get.soft-arch.net/ansible/)
 * II. Ansible 自動化組態管理實戰講堂 :: DevOps 2015 Workshop (付費課程)  
     http://devopsconf.ithome.com.tw/workshop/ansible/
-*（影片） 七分鐘掌握 Ansible 核心觀念 | Software Architecture School  
+* （影片） 七分鐘掌握 Ansible 核心觀念 | Software Architecture School  
 http://school.soft-arch.net/courses/ansible/lectures/655359
 
 ##Justin Weissig
