@@ -2,10 +2,12 @@
 ansible 學習教學資源整理
 
 包含 
-- 教學課程
-- 入門文章
-- 官方文件
-- PDF好書好文
+- 教學課程 （本文）
+- 入門文章 （本文）
+- 基本概念 [basic](https://github.com/marxwang/ansible-learn-resources/blob/master/basic_concept.md)
+- 官方文件 [offical docs](https://github.com/marxwang/ansible-learn-resources/blob/master/official_docs.md)
+- windows 控制端 與管理端 [ansible on windows](
+https://github.com/marxwang/ansible-learn-resources/blob/master/ansible_windows.md)
 
 
 # 教學課程 
@@ -28,12 +30,11 @@ ansible 學習教學資源整理
 * Zero-downtime Deployments with Ansible (Part 4/4)  
     https://sysadmincasts.com/episodes/47-zero-downtime-deployments-with-ansible-part-4-4
 
-## 李松涛-Ansible系列课程-基础入门-InventoryFile - 简书  
+## 李松涛-Ansible系列课程-基础入门-InventoryFile
 http://www.jianshu.com/p/82208d730417
 
-
-## 【實戰】Vagrant & Ansible Quickstart Tutorial - adamcod.es （推！）
-https://adamcod.es/2014/09/23/vagrant-ansible-quickstart-tutorial.html
+## 【實戰】Vagrant & Ansible Quickstart Tutorial 
+https://adamcod.es/2014/09/23/vagrant-ansible-quickstart-tutorial.html（推！）
 
 #入門文章
 
