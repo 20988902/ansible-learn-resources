@@ -1,7 +1,11 @@
 # ansible-learn-resources
 ansible 學習教學資源整理
 
-包含 
+【說明】
+以初學者角度蒐集相關資源，國內外重要講師的學習資源。
+簡單、好入手原則去蒐集：
+
+包含 ：
 - 教學課程 （本文）
 - 入門文章 （本文）
 - 基本概念 [basic](https://github.com/marxwang/ansible-learn-resources/blob/master/basic_concept.md)
@@ -71,14 +75,25 @@ http://www.slideshare.net/rayedalrashed/ansible-pdf
 Ansible介绍  
 http://www.simlinux.com/books/Ansible-notes.pdf
 
+# 大頭參考書 (推！）
 
-# PDF 電子書 文章
+1. ansible-playbook-essentials by Gourav Shah  
+https://www.packtpub.com/networking-and-servers/ansible-playbook-essentials/?utm_source=scribd&utm_medium=cd&utm_campaign=samplechapter
 
-1. 【書】Variables — ansible中文权威指南 1.0.1 documentation  
+2. Ansible Up and Running by Lorin Hochstein  
+  Ansible: Up and Running - O'Reilly Media
+http://shop.oreilly.com/product/0636920035626.do
+
+
+# 電子書 文章
+
+1. 【電子書】Variables — ansible中文权威指南 1.0.1 documentation  
 http://ansible-tran.readthedocs.org/en/latest/docs/playbooks_variables.html
 
 2. 【文】Ansible状态管理  
 http://xdays.me/ansible%E7%8A%B6%E6%80%81%E7%AE%A1%E7%90%86.html
+
+
 
 
 
