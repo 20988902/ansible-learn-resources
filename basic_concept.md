@@ -2,11 +2,15 @@
 
 //待補
 
+
+
 ## **1. Ansible 環境**
 
 * controller 端  python > 2.7
 * _managed 端（自己稱為受控端） _python > 2.5
 * _ansible_ (pip/yum/apt) 最新2.0
+
+安裝ansible步驟 [點我](https://github.com/marxwang/ansible-learn-resources/blob/master/install_ansible.md) 
 
 ## 2.學習 Ansible 專注focus 幾件事
 
