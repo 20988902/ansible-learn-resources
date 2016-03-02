@@ -12,7 +12,7 @@ https://github.com/marxwang/ansible-learn-resources/blob/master/ansible_windows.
 
 # 教學課程 
 
-##william yah 
+##william yeh 
 
 * I. Ansible 實戰講堂，2016/01 開課了！(付費課程)  
   [http://get.soft-arch.net/ansible/](http://get.soft-arch.net/ansible/)
