@@ -12,12 +12,14 @@ https://github.com/marxwang/ansible-learn-resources/blob/master/ansible_windows.
 
 # 教學課程 
 
-##william yah
+##william yah 
 
-* I. Ansible 實戰講堂，2016/01 開課了！  
+* I. Ansible 實戰講堂，2016/01 開課了！(付費課程)
   [http://get.soft-arch.net/ansible/](http://get.soft-arch.net/ansible/)
-* II. Ansible 自動化組態管理實戰講堂 :: DevOps 2015 Workshop （影片）  
+* II. Ansible 自動化組態管理實戰講堂 :: DevOps 2015 Workshop (付費課程)
     http://devopsconf.ithome.com.tw/workshop/ansible/
+*（影片） 七分鐘掌握 Ansible 核心觀念 | Software Architecture School
+http://school.soft-arch.net/courses/ansible/lectures/655359
 
 ##Justin Weissig
 
