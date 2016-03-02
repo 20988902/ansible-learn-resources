@@ -47,28 +47,26 @@ http://www.slideshare.net/rayedalrashed/ansible-pdf
 
 ##【小信豬系列】
 
-
-* [Ansible] 初探 Ansible – 小信豬的原始部落
+* [Ansible] 初探 Ansible – 小信豬的原始部落  
     https://godleon.github.io/blog/2015/02/22/ansible-introduction
-* [Ansible] playbook 入門 – 小信豬的原始部落
+* [Ansible] playbook 入門 – 小信豬的原始部落  
     http://godleon.github.io/blog/2015/03/26/ansible-playbooks-tutorial-1
-* [Ansible] playbook 使用介紹(vars & handler & template) – 小信豬的原始部落
+* [Ansible] playbook 使用介紹(vars & handler & template) – 小信豬的原始部落  
     http://godleon.github.io/blog/2015/03/26/ansible-playbooks-tutorial-2
-* [Ansible] Include 使用介紹 – 小信豬的原始部落
+* [Ansible] Include 使用介紹 – 小信豬的原始部落  
     http://godleon.github.io/blog/2015/05/24/ansible-how-to-use-include
-* [Ansible] Role 使用介紹 – 小信豬的原始部落
+* [Ansible] Role 使用介紹 – 小信豬的原始部落  
     http://godleon.github.io/blog/2015/04/12/ansible-roles-introduction
-* [Ansible] 使用 module & ad-hoc command – 小信豬的原始部落
+* [Ansible] 使用 module & ad-hoc command – 小信豬的原始部落  
     http://godleon.github.io/blog/2015/02/22/ansible-module-ad-hoc-command
 
 
 ##【Ansible 大全整理】 中階難度 推!
-Ansible介绍
+Ansible介绍  
 http://www.simlinux.com/books/Ansible-notes.pdf
 
 
-
- # PDF 電子書 文章
+# PDF 電子書 文章
 
 1. 【書】Variables — ansible中文权威指南 1.0.1 documentation
 http://ansible-tran.readthedocs.org/en/latest/docs/playbooks_variables.html
