@@ -12,3 +12,9 @@ https://github.com/William-Yeh/vag2inv
 
 ansible/examples/scripts at devel   
 https://github.com/ansible/ansible/tree/devel/examples/scripts
+
+
+## 3.5.3 Control 端 on windows (via cygwin)
+
+Running Vagrant with Ansible Provisioning on Windows | Azavea Labs  
+http://www.azavea.com/blogs/labs/2014/10/running-vagrant-with-ansible-provisioning-on-windows/
