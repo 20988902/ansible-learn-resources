@@ -28,9 +28,12 @@ ansible 學習教學資源整理
 * Zero-downtime Deployments with Ansible (Part 4/4)  
     https://sysadmincasts.com/episodes/47-zero-downtime-deployments-with-ansible-part-4-4
 
-
 ## 李松涛-Ansible系列课程-基础入门-InventoryFile - 简书  
 http://www.jianshu.com/p/82208d730417
+
+
+## 【實戰】Vagrant & Ansible Quickstart Tutorial - adamcod.es （推！）
+https://adamcod.es/2014/09/23/vagrant-ansible-quickstart-tutorial.html
 
 #入門文章
 
@@ -74,6 +77,5 @@ http://ansible-tran.readthedocs.org/en/latest/docs/playbooks_variables.html
 2. 【文】Ansible状态管理
 http://xdays.me/ansible%E7%8A%B6%E6%80%81%E7%AE%A1%E7%90%86.html
 
-3. 【文】Vagrant & Ansible Quickstart Tutorial - adamcod.es
-https://adamcod.es/2014/09/23/vagrant-ansible-quickstart-tutorial.html
+
 
