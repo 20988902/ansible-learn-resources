@@ -3,10 +3,10 @@
 ##所有套件列表 Packaging Modules — Ansible Documentation
 http://docs.ansible.com/ansible/list_of_packaging_modules.html
 
-[Ansible Documentation][0]
-[Ansible - Module Index][1]
-[Ansible - Playbooks][2]
-[Ansible - Best Practices][3]
+- [Ansible Documentation][0]  
+- [Ansible - Module Index][1]  
+- [Ansible - Playbooks][2]  
+- [Ansible - Best Practices][3]  
 
 [0]: http://docs.ansible.com/index.html
 [1]: http://docs.ansible.com/modules_by_category.html
