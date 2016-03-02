@@ -3,7 +3,10 @@ ansible 學習教學資源整理
 
 【說明】
 以初學者角度蒐集相關資源，國內外重要講師的學習資源。
-簡單、好入手原則去蒐集：
+簡單、好入手原則去蒐集，沒時間的可以先看小信豬系列（個人覺得精簡易懂）、william yeh大的文章、影片（國內重要推手）
+全面性的可以看 Geekwolf 的電子檔（方方面面都照顧到），實做系列 Adam Brett文章 循序漸進引導入門。
+
+希望對學習Ansible的朋友們有幫助，也歡迎不吝告知其他優質的學習資源！
 
 包含 ：
 - 教學課程 （本文）
@@ -39,7 +42,7 @@ http://school.soft-arch.net/courses/ansible/lectures/655359
 ## 李松涛-Ansible系列课程-基础入门-InventoryFile
 http://www.jianshu.com/p/82208d730417
 
-## 【實戰】Vagrant & Ansible Quickstart Tutorial 
+## 【實做】Vagrant & Ansible Quickstart Tutorial by Adam Brett
 https://adamcod.es/2014/09/23/vagrant-ansible-quickstart-tutorial.html（推！）
 
 #入門文章
