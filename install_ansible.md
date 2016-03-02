@@ -52,5 +52,5 @@ $ sudo apt-get install ansible
 
 ### osx
 
-1.pip way (同上)
+1.pip way (同上)  
 2.brew way `brew install ansible`
