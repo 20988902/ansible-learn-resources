@@ -54,3 +54,7 @@ $ sudo apt-get install ansible
 
 1.pip way (同上)  
 2.brew way `brew install ansible`
+
+##ref
+
+[官方 intro_installation 說明] (http://docs.ansible.com/ansible/intro_installation.html)
