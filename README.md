@@ -71,10 +71,10 @@ http://www.simlinux.com/books/Ansible-notes.pdf
 
 # PDF 電子書 文章
 
-1. 【書】Variables — ansible中文权威指南 1.0.1 documentation
+1. 【書】Variables — ansible中文权威指南 1.0.1 documentation  
 http://ansible-tran.readthedocs.org/en/latest/docs/playbooks_variables.html
 
-2. 【文】Ansible状态管理
+2. 【文】Ansible状态管理  
 http://xdays.me/ansible%E7%8A%B6%E6%80%81%E7%AE%A1%E7%90%86.html
 
 
