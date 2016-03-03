@@ -35,7 +35,7 @@
   credit: [kerberos installation error](http://stackoverflow.com/questions/30088355/kerberos-installation-error-error-setup-script-exited-with-error-command-i68)
 
 
-#管控端（managed node) 設定 //中文翻譯自己發明的
+#管控端（managed node) 設定 //自己的翻譯用詞
 
 ## 管理win 版本與環境設定
 
@@ -70,10 +70,11 @@ WinRM 服務已在這台電腦上執行。
 此電腦上的 WinRM 已設定為可接受遠端管理。
 ```
 
-4. 設定 AllowUnencrytped = false（一定要加密連線）
-`PS > winrm set winrm/config/service '@{AllowUnencrypted="false"}'`
+4. 設定 AllowUnencrytped = false（一定要加密連線） 
 
-5. 檢查連線驗證方式
+ `PS > winrm set winrm/config/service '@{AllowUnencrypted="false"}'`
+
+5. 檢查連線驗證方式  
 `PS > winrm get winrm/config/service/Auth`
 
   結果
