@@ -58,7 +58,7 @@ https://github.com/ansible/ansible/tree/devel/examples/scripts
 
 執行前 請先讓powershell 的執行策略改為`RemotedSigned`
 
-檢查 PS> `Get-ExecutionPolicy`=>"RemotedSigned"
+檢查 PS> `Get-ExecutionPolicy`=>"RemoteSigned"
 設定為 PS> `Set-ExecutionPolicy RemoteSigned`
 
 1. 升級powershell3  
