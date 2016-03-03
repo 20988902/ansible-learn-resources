@@ -1,15 +1,16 @@
 #3.5 Ansible on windows 應用
 
-【前言】
-1.官方聲明不會支援控制端設在windows (cygwin 環境勉強算有）
-2.控制端(control node)只有linux/bsd based，且必須
-  安裝pywinrm 套件
-  安裝kerberos套件
+【前言】  
+1. 官方聲明不會支援控制端設在windows (cygwin 環境勉強算有）  
+2. 控制端(control node)只有linux/bsd based，且必須
+  - 安裝pywinrm 套件
+  - 安裝kerberos套件  
+
 3.管控端(managed node)如是windows 必須有以下條件
-  - 支援powershell >3 
-  - 設定環境給winrm 控制(ConfigureForWinrm.ps1)
-  - winrm 服務安裝
-  - winrm 服務執行
+  - 支援powershell >3   
+  - 設定環境給winrm 控制(ConfigureForWinrm.ps1)  
+  - winrm 服務安裝  
+  - winrm 服務執行  
   - 開啟防火牆5986(https), 5985(http) 給winrm連線（非ssh協議連線）
 
 #控制端 (control node)設定
