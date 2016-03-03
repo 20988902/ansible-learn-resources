@@ -56,6 +56,11 @@ from [Ansible For Windows （詳盡）](http://yumaojun03.gotoip55.com/?p=1232)
 ansible/examples/scripts at devel   
 https://github.com/ansible/ansible/tree/devel/examples/scripts
 
+執行前 請先讓powershell 的執行策略改為`RemotedSigned`
+
+檢查 PS> `Get-ExecutionPolicy`=>"RemotedSigned"
+設定為 PS> `Set-ExecutionPolicy RemoteSigned`
+
 1. 升級powershell3  
 [upgradeps3.ps1](https://github.com/ansible/ansible/blob/devel/examples/scripts/upgrade_to_ps3.ps1)  
 
@@ -73,10 +78,10 @@ WinRM 服務已在這台電腦上執行。
 
 4. 設定 AllowUnencrytped = false（一定要加密連線） 
 
- `PS > winrm set winrm/config/service '@{AllowUnencrypted="false"}'`
+ PS >`winrm set winrm/config/service '@{AllowUnencrypted="false"}'`
 
 5. 檢查連線驗證方式  
-`PS > winrm get winrm/config/service/Auth`
+PS >`winrm get winrm/config/service/Auth`
 
   結果
 ```
@@ -88,6 +93,7 @@ Auth
     CredSSP = false
     CbtHardeningLevel = Relaxed
 ```
+
 
 #【應用】
 ## 1. 控制端 (via vagrant)
