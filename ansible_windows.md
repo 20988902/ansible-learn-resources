@@ -20,17 +20,18 @@
 ##安裝 kerberos
 1. 執行`pip install kerberos`
 
-- krb5-config
-- libkrb5-dev
-- libssl-dev
-- libsasl2-dev
-- libsasl2-modules-gssapi-mit
 
-`sudo apt-get install -y krb5-config libkrb5-dev libssl-dev libsasl2-dev libsasl2-modules-gssapi-mit`
 
 2. 如果出現「`krb5-config: not found`」錯誤訊息
 
-  請先裝 
+  請先裝
+  - krb5-config
+  -  libkrb5-dev
+  -  libssl-dev
+  -  libsasl2-dev
+  -  libsasl2-modules-gssapi-mit
+
+`sudo apt-get install -y krb5-config libkrb5-dev libssl-dev libsasl2-dev libsasl2-modules-gssapi-mit`
   
   credit: [kerberos installation error](http://stackoverflow.com/questions/30088355/kerberos-installation-error-error-setup-script-exited-with-error-command-i68)
 
